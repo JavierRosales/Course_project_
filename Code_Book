@@ -16,3 +16,4 @@ variables:
 * *MS_features*: contains the extract of the mean and standart deviation
 * *activity*: contains the deswcription of activities
 * *averages*: the tidy dataset that contains the average of each variable for each activity and each subject
+```
