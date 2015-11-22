@@ -1,6 +1,6 @@
 #Code Book
 
-##variables:
+variables:
 
 ```sh
 * *x_train*: contains the download file x_trian
