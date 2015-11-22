@@ -2,7 +2,7 @@
 
 ##variables:
 
-```sh
+
 * *x_train*: contains the download file x_trian
 * *y_trian*: contains the download file y_trian
 * *subject_train*: contains the download file subject_train
@@ -16,4 +16,3 @@
 * *MS_features*: contains the extract of the mean and standart deviation
 * *activity*: contains the deswcription of activities
 * *averages*: the tidy dataset that contains the average of each variable for each activity and each subject
-```
